@@ -101,9 +101,11 @@ Displays the geographic distribution of reported collisions across New York City
 
 ![Injuries Over Time](visualizations/injuries_over_time.png)
 
-![Crashes by Hour](visualizations/crashes_by_hour.png)
+![Crashes Over Time](/visualizations/crashes_over_time.png)
 
-![NYC Collision Heatmap](visualizations/crash_heatmap.png)
+![NYC Collision Heatmap](visualizations/hotspots_on_map.png)
+
+![See more](/visualizations/)
 
 🛠️ Technologies Used
 Technology	Purpose
