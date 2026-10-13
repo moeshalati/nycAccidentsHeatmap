@@ -121,8 +121,8 @@ Python 3.7 or higher
 Jupyter Notebook
 NYC Motor Vehicle Collisions dataset
 Step 1: Clone the Repository
-git clone [https://github.com/YOUR-USERNAME/nycAccidentsHotmap.git](https://github.com/moeshalati/nycAccidentsHotmap)
-cd nycAccidentsHotmap
+git clone [https://github.com/moeshalati/nycAccidentsHeatmap.git](https://github.com/moeshalati/nycAccidentsHeatmap)
+cd nycAccidentsHeatmap
 
 Step 2: Install Dependencies
 ```
