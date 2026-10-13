@@ -98,14 +98,13 @@ Highlights how collision frequency changes throughout the day.
 
 Displays the geographic distribution of reported collisions across New York City.
 
+![NYC Collision Heatmap](visualizations/hotspots_on_map.png)
 
 ![Injuries Over Time](visualizations/injuries_over_time.png)
 
 ![Crashes Over Time](/visualizations/crashes_over_time.png)
 
-![NYC Collision Heatmap](visualizations/hotspots_on_map.png)
-
-![See more](/visualizations/)
+[See more](/visualizations/)
 
 🛠️ Technologies Used
 Technology	Purpose
